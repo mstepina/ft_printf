@@ -1,2 +1,2 @@
 # ft_printf1
-42 school project
+Recreate printf function from C standard library
